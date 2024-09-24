@@ -26,7 +26,7 @@ const Home = () => {
             <Link className="nav-link active " aria-current="page" to="/">HOME</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link " to="/">PAGES</Link>
+            <Link className="nav-link " to="/">FACEBOOK</Link>
           </li>
           <li className="nav-item">
             <Link className="nav-link " to="/">DESTINATIONS</Link>
